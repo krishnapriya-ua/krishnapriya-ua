@@ -1,4 +1,4 @@
-[![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2018/11/header_banner.jpg)](https://rishavchanda.io)
+[![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2018/11/header_banner.jpg)](https://krishnapriya.tech)
 
 
 # krishnapriya<h1 align="center">Hi 👋, I'm Krishnapriya U.A</h1>
