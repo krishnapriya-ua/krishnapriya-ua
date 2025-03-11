@@ -4,7 +4,10 @@
 
 
 
-# krishnapriya<h1 align="center">Hi , I'm Krishnapriya U.A</h1>
+# krishnapriya<h1 align="center">Hi 👋, I'm Krishnapriya U.A</h1>
+
+<h3 align="center">A passionate MERN Stack developer.</h3>
+
 
 <a href="https://linkedin.com/in/krishnapriya-u-a-985654306/" target="_blank">
   <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*5OSbGu-5Z98IT8r76UJZbw.gif">
